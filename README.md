@@ -271,7 +271,7 @@ GROUP BY shift;
 
 ---
 
-## Findins
+## Findings
 
 - Clothing likely leads in transaction volume due to quantity-based filtering showing frequent bulk purchases
 - Beauty attracts a mature customer base (~40 years avg. age)
