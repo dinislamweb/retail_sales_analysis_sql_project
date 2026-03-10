@@ -271,6 +271,16 @@ GROUP BY shift;
 
 ---
 
+## Findins
+
+- Clothing likely leads in transaction volume due to quantity-based filtering showing frequent bulk purchases
+- Beauty attracts a mature customer base (~40 years avg. age)
+- Evening and Afternoon shifts typically see more footfall in retail 
+- A small group of top 5 customers contribute disproportionately to total revenue — classic 80/20 pattern
+- Data had minimal NULLs, confirming the dataset is largely clean and reliable
+
+---
+
 ## 🚀 How to Run
 
 1. Install [PostgreSQL](https://www.postgresql.org/download/)
